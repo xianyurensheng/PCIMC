@@ -1,2 +1,2 @@
 # PCIMC
-Please perform TPEA on the platform of PlatEMO v4.8
+Please perform PCIMC on the platform of PlatEMO v4.8
